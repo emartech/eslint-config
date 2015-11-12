@@ -11,7 +11,7 @@ Then add it to your .eslintrc
 ```
 {
   "extends": [
-    "eslint-config-emarsys"
+    "emarsys"
   ]
 }
 ```
@@ -32,7 +32,7 @@ For instance:
     "React": true
   },
   "extends": [
-    "eslint-config-emarsys"
+    "emarsys"
   ]
 }
 ```
