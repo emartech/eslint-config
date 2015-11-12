@@ -36,3 +36,5 @@ For instance:
   ]
 }
 ```
+
+To get an insight how it works check the [official documentation](http://eslint.org/docs/developer-guide/shareable-configs).
