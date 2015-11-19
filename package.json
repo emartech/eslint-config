@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-emarsys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint Rules for Emarsys",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emartech/eslint-rules.git"
+    "url": "git+https://github.com/emartech/eslint-config.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emartech/eslint-rules/issues"
+    "url": "https://github.com/emartech/eslint-config/issues"
   },
-  "homepage": "https://github.com/emartech/eslint-rules#readme"
+  "homepage": "https://github.com/emartech/eslint-config#readme"
 }
