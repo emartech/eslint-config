@@ -27,7 +27,7 @@ module.exports = {
     'no-trailing-spaces': 2,
     'no-undef': [2, { 'typeof': true }],
     'no-unused-expressions': [2, { 'allowTernary': true }],
-    'no-unused-vars': [2, { 'args': 'all' }],
+    'no-unused-vars': [2, { 'args': 'after-used' }],
     'no-with': 2,
     'object-curly-spacing': [2, 'always'],
     'one-var': [2, 'never'],
