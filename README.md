@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-$ npm i -D eslint eslint-config-emarsys
+$ npm i -D eslint eslint-plugin-security eslint-config-emarsys
 ```
 
 Then add it to your .eslintrc
