@@ -1,4 +1,7 @@
 module.exports = {
+  plugins: [
+    "security"
+  ],
   rules: {
     'array-bracket-spacing': [2, 'never'],
     'block-spacing': 2,
@@ -45,6 +48,16 @@ module.exports = {
     'space-return-throw-case': 2,
     'space-unary-ops': [2, { 'words': true, 'nonwords': false }],
     'strict': [2, 'global'],
-    'yoda': 2
+    'yoda': 2,
+    'security/detect-unsafe-regex': 1,
+    'security/detect-buffer-noassert': 1,
+    'security/detect-child-process': 1,
+    'security/detect-eval-with-expression': 1,
+    'security/detect-non-literal-fs-filename': 1,
+    'security/detect-non-literal-regexp': 1,
+    'security/detect-non-literal-require': 1,
+    'security/detect-object-injection': 1,
+    'security/detect-possible-timing-attacks': 1,
+    'security/detect-pseudoRandomBytes': 1,
   }
 };
