@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-emarsys",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Eslint Rules for Emarsys",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/emartech/eslint-config/issues"
   },
-  "homepage": "https://github.com/emartech/eslint-config#readme"
+  "homepage": "https://github.com/emartech/eslint-config#readme",
+  "devDependencies": {
+    "eslint-plugin-security": "np1.2.0"
+  }
 }
