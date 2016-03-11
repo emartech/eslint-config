@@ -1,6 +1,7 @@
 module.exports = {
   plugins: [
-    "security"
+    'security',
+    'no-only-tests'
   ],
   rules: {
     'array-bracket-spacing': [2, 'never'],
@@ -57,5 +58,6 @@ module.exports = {
     'security/detect-object-injection': 1,
     'security/detect-possible-timing-attacks': 1,
     'security/detect-pseudoRandomBytes': 1,
+    'no-only-tests/no-only-tests': 2
   }
 };
