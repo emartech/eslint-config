@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-emarsys",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "Eslint Rules for Emarsys",
   "main": "index.js",
   "scripts": {
