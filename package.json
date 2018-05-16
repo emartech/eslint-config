@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-emarsys",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Eslint Rules for Emarsys",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/emartech/eslint-config#readme",
   "dependencies": {
-    "eslint-plugin-no-only-tests": "1.1.0",
+    "eslint-plugin-no-only-tests": "2.0.0",
     "eslint-plugin-security": "1.2.0"
   }
 }
